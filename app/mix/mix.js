@@ -1,1 +1,0 @@
-var mix = 'Ignore me!';
